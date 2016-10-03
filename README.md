@@ -1,2 +1,1 @@
-JavaProject
-===========
+All Java Programs
